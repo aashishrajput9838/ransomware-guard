@@ -1,5 +1,5 @@
 # 🛡️ Ransom Guard - Ransomware Analysis Platform 
-# (🛑 Under Developmment.....)
+# 🛑 Under Developmment.....
 
 A powerful, modern web-based platform for analyzing suspicious files, domains, and URLs to detect ransomware and other malware threats. Built with React, FastAPI, and Cuckoo Sandbox integration.
 
