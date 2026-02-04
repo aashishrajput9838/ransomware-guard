@@ -1,7 +1,8 @@
-# 🛡️ Ransom Guard - Ransomware Analysis Platform 
-# 🛑 Under Developmment.....
+# 🛡️ Ransom-Guard - Advanced Malware Detection System
 
-A powerful, modern web-based platform for analyzing suspicious files, domains, and URLs to detect ransomware and other malware threats. Built with React, FastAPI, and Cuckoo Sandbox integration.
+A sophisticated malware detection platform that combines machine learning with user-friendly reporting to identify potentially malicious files. Built with React, FastAPI, and LightGBM machine learning model.
+
+**Status**: ✅ Production Ready - Complete Implementation
 
 ---
 
